@@ -6,7 +6,7 @@
 build/
 DerivedData/
 
-Frameworks/
+ImageHander/Frameworks/opencv2.framework/*
 
 ## Various settings
 *.pbxuser
